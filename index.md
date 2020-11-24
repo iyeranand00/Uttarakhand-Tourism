@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="description" content="Some Art Integration"/>
+    <meta name="author" content="Anand" />
+    <meta name="keywords" content="CSS,html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Uttarakhand Tourism</title>
+
+    <style>
+
+        div.box {
+            width: auto;
+            
+          
+            background-color: darkblue;
+            color: whitesmoke;
+        }
+
+        body {
+            background-color: darkcyan;
+            color: cyan;
+            font-family: Calibri;
+            background-image: url("https://uttarakhandtourism.gov.in/wp-content/uploads/2020/03/Uttarakhand.jpg") ;
+            background-repeat: no-repeat;
+            background-size: auto;
+            background-attachment: scroll;
+           
+        }
+
+        
+
+    
+        
+        #table01
+        {
+            background-color: royalblue;
+            border: 3px solid;
+            border-color: chocolate;
+            border-collapse: separate;
+            white-space: nowrap
+        }
+
+        #table01 tr:nth-child(odd) {
+            background-color: burlywood;
+            color: blue
+        }
+
+        #table01 caption {
+            font-family: Georgia;
+            font-size: larger
+        }
+
+        #table01 th {
+            text-align: left
+        }
+
+        
+
+
+        h1 {
+            color:navajowhite ;
+            font-family: 'Trebuchet MS'
+        }
+
+
+        h2 {
+
+            color: azure;
+            font-family: 'Lucida Calligraphy'
+        }
+
+        h3 {
+            font-size:large;
+            color:cornsilk;
+            font-weight:300
+            
+        }
+ 
+    </style>
+</head>
+
+
+
+
+<body>
+
+
+
+    <table id="table01">
+        <caption><strong>Quick Info</strong></caption>
+        <tr>
+            <th> Uttarakhand</th>
+            <td> literally Northern Portion</td>
+
+        </tr>
+
+        <tr>
+            <th> Capital</th>
+            <td> <a href="ArtIntegration.html#Dehradun"> Dehradun </td> </a>
+        </tr>
+
+        <tr>
+            <th> Population</th>
+            <td> 10,086,292(2011 Census)</td>
+        </tr>
+
+        <tr>
+            <th> Official Language(s)</th>
+            <td> Hindi (43% of pop), Sanskrit</td>
+        </tr>
+
+        <tr>
+            <th> Other Languages</th>
+            <td> Garhwali, Kumaoni</td>
+        </tr>
+
+        <tr>
+            <th> Currency</th>
+            <td>INR</td>
+        </tr>
+
+        <tr>
+            <th rowspan="5">Tourism </th>
+            <td> 12 National Parks</td>
+        </tr>
+        <tr>
+            <td> <a href="ArtIntegration.html#Chardam">   Char Dham </td> </a>
+        </tr>
+
+        <tr>
+            <td> <a href="ArtIntegration.html#Haridwar">   Haridwar </td> </a>
+        </tr>
+
+        <tr>
+            <td> Hill Stations</td>
+        </tr>
+
+        <tr>
+            <td>Trekking</td>
+        </tr>
+        <tr>
+            <th rowspan="4">
+                Getting There: <br />
+                Air<br />
+                Rail<br />
+                Road
+            </th>
+
+        </tr>
+
+        <tr>
+
+            <td>
+                Jolly Grant Airport,Dehradun
+            </td>
+        </tr>
+        <tr>
+            <td> Dehradun, Nainital Railway stations</td>
+        </tr>
+        <tr>
+            <td>
+                NH 7
+            </td>
+        </tr>
+    </table>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    <br />
+
+    <h1> <strong>About Uttarakhand</strong></h1>
+
+    <div class="box"><p>Uttarakhand (literally "Northern Portion") is a North Indian state which is the birthplace of the twin holy rivers Ganga and Yamuna. It is oft referred to as the gateway to the Himalayas as it is a hilly state that is located at the foothills of the Himalayan mountains.From the holiest of temples to pristine mountainsides, bustling urban centres, swanky ski stations and rushing rivers... Uttarakhand has it all. The wide variety of tourist spots caters to pilgrims, nature lovers and adrenaline-filled adventure enthusiasts too.</p>
+    </div>
+
+    <wbr />
+
+    <img title="Click on individual places for more info" src=https://www.mapsofindia.com/maps/uttarakhand/uttaranchalhills.gif alt="Uttarakhand Tourist Hotspot map" ; style="-webkit-user-select: none; position:sticky; top:0; float: right; margin: 5px;width:40%;height:40%; padding-left:10px; " usemap="#objects" />
+
+    <map name="objects">
+        <area shape="rect" coords="133,262,235,309" href="ArtIntegration.html#Mussoorie" />
+        <area shape="rect" coords="155,390,260,420" href="ArtIntegration.html#Rishikesh" />
+        <area shape="rect" coords="238,466,340,540" href="ArtIntegration.html#Corbett" />
+        <area shape="rect" coords="522,278,653,336" href="ArtIntegration.html#Nanda" />
+        <area shape="rect" coords="78,103,161,142" href="ArtIntegration.html#Chardam" />
+        <area shape="rect" coords="238,123,324,158" href="ArtIntegration.html#Chardam" />
+        <area shape="rect" coords="497,217,579,285" href="ArtIntegration.html#Chardam" />
+    </map>
+
+
+
+
+
+
+
+    <h2 id="Corbett"> Corbett National Park </h2>
+    <img src="https://www.jimcorbettnationalpark.com/images/b-jim-corbett-national-park-booking-information.jpg" , alt="Jim Corbett National Park" ; style="-webkit-user-select: none;margin: auto; width: 40%; height:40%;" />
+    <p>
+
+        India's oldest national park, 520 sq km in area, home to the Royal Bengal Tiger. Contains 500 odd plant species and 800+ bird and animal species.<br />
+        One of the most popular eco-tourism spots in Uttarakhand.
+        <h3> Best Time to Vist:</h3>
+        <ol>
+            <li>Summer: Get a good view of all the species and enjoy rafting as well </li>
+            <li>Winter: Best time to see exotic migratory birds and the Royal Bengal Tiger</li>
+        </ol>
+    </p>
+    <h2 id="Rishikesh">Rishikesh</h2>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Ram_Jhula_Bridge%2C_Rishikesh.jpg" , alt="Ram Jhula" ; style="-webkit-user-select: none;
+        margin: auto;
+        width: 20%;
+        height: 20%" />
+    <p>
+        Rishikesh, known as the birthplace of Yoga, is a wonderful place to relax and unwind in the lap of nature.
+        <h3> Things to do</h3>
+        <ul>
+            &bull; River rafting on the Ganges
+            <br />
+            &bull;Base for trans-Himalayan treks
+            <br />
+            &bull; Yoga and meditation
+            <br />
+        </ul>
+
+        <h3>
+            Best Time to visit
+        </h3>
+        <ul>&bull; August to October</ul>
+    </p>
+
+
+
+
+    <h2 id="Dehradun">Dehradun</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Indian_Military_Academy%2C_Dehradun%2C_Uttrakhand%2C_India.jpg" , alt="IMA Dehra" ; style="        -webkit-user-select: none;
+        margin: auto;
+        width: 20%;
+        height: 20%;"<br />
+    <p>
+
+        &bull;Capital of Uttarakhand that is nestled in the lush green Doon valley<br />
+        &bull;Known as India's school capital as it is home to some highly reputed private boarding schools (Doon School) and the Indian Military Academy
+    </p>
+
+
+
+
+    <h2 id="Mussoorie"> Mussoorie</h2>
+
+    <br />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Entire_mussorie.jpg/1920px-Entire_mussorie.jpg" , alt="Mussoorie" ; style=" -webkit-user-select: none;
+        margin: auto;
+        width: 25%;
+        height: 30%;"
+    <br />
+    <br />
+    Mussoorie offers a spectacular view of the Himalayas. It is a popular weekend destination for millenials courtesy the well-developed tourist facilities.<br />
+    <h3>
+        Best Time to visit
+    </h3>
+    <ul>&bull; April to June</ul>
+    <h3> Things to do</h3>
+    <ul>
+        &bull;Take a cable car to Gun hill
+        <br />
+        &bull; Enjoy a picturesque nature walk along Camel's Back Road.
+        <br />
+        &bull;Undertake an excursion to the Kempty Falls
+        <br />
+    </ul>
+
+
+    <h2 id="Chardam"> CharDham</h2>
+
+    <img src="https://heyraahi.com/wp-content/uploads/2018/11/A5H-2.jpg" ,alt="Valley of Flowers" ; style=" -webkit-user-select: none;
+        margin: auto;
+        width: 25%;
+        height: 25%;" /><br />
+    Yamunotri, Gangotri, Kedarnath and Badrinath are holy Hindu pilgrimage sites located at the source of the 4 holy rivers Yamuna, Ganga, Mandakini and Alakananda.<br />
+
+    <h3>When to Visit</h3>
+    <ol>
+        <li>Summer: April to June are the best months to visit</li>
+        <li>Pre-Winter: October and November are also good times to visit if you want to beat the heat.</li>
+    </ol>
+    <ul>
+        &bull; Avoid visiting during the Monsoon months(July-September) at all costs lest some unfortunate event like the 2013 floods befalls you.
+        <br />
+        &bull; Snowfall makes a visit during Winter hazardous and inconvenient.
+    </ul>
+
+
+    <h2 id="Nanda">Nanda Devi Biosphere Reserve</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Mt._Nanda_Devi.jpg" ,alt="Valley of Flowers" ; style="        -webkit-user-select: none;
+        margin: auto;
+        width: 25%;
+        height: 25%;" /><br />
+
+    <p>
+        <ul>
+            &bull; This entire reserve lies at an altitude greater than 3500m. </br>
+            &bull; Numerous 6000+ metre peaks are located here, with the most well-known of them being Nanda Devi(7816m)
+            <br />
+            &bull; Inhabited by 300+ species of flaura and fauna with a large proportion of endemic species.
+        </ul>
+        <h3>Valley of Flowers</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Valley_of_flowers_uttaranchal_full_view.JPG" ,alt="Valley of Flowers" ; style=" -webkit-user-select: none;
+        margin: auto;
+        width: 25%;
+        height: 25%;" /><br />
+        <ul>
+            &bull; High altitude valley inside the reserve that boasts of myriad vibrant hues set against mountainous snow-clad Himalayan peaks.
+            <br />
+            &bull; Home to endless Alpine flora and a variety of exotic, endangered animals like the snow leopard, musk deer etc.
+            <br />
+        </ul>
+        <h3>Best Time to Visit</h3>
+        <ul> &bull; Mid-April to June</ul>
+    </p>
+
+    <h2>Other Notable Locations</h2>
+    <p>
+        <ol>
+            <li>Haridwar</li>
+            <li>Nainital</li>
+            <li>Uttarkashi</li>
+            <li>Almora</li>
+            <li>Pithorgarh</li>
+        </ol>
+    </p>
+
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    </br>
+    <br />
+
+    <p>
+        Disclaimer: All images belong to their respective copyright holders. They have been utilised for non-commercial educational purposes. Those desirous of seeing original copyright holders might do so.<br />
+        This site is not mobile-friendly.
+
+    </p>
+</body>
+</html>
+
+
